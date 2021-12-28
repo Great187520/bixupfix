@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bixupfix/static/css/main.da74ee7f.chunk.css",
+    "main.js": "/bixupfix/static/js/main.2b32ec8c.chunk.js",
+    "main.js.map": "/bixupfix/static/js/main.2b32ec8c.chunk.js.map",
+    "runtime-main.js": "/bixupfix/static/js/runtime-main.e2f88660.js",
+    "runtime-main.js.map": "/bixupfix/static/js/runtime-main.e2f88660.js.map",
+    "static/css/2.0ce74623.chunk.css": "/bixupfix/static/css/2.0ce74623.chunk.css",
+    "static/js/2.d8495e1b.chunk.js": "/bixupfix/static/js/2.d8495e1b.chunk.js",
+    "static/js/2.d8495e1b.chunk.js.map": "/bixupfix/static/js/2.d8495e1b.chunk.js.map",
+    "index.html": "/bixupfix/index.html",
+    "static/css/2.0ce74623.chunk.css.map": "/bixupfix/static/css/2.0ce74623.chunk.css.map",
+    "static/css/main.da74ee7f.chunk.css.map": "/bixupfix/static/css/main.da74ee7f.chunk.css.map",
+    "static/js/2.d8495e1b.chunk.js.LICENSE.txt": "/bixupfix/static/js/2.d8495e1b.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/bixupfix/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f88660.js",
+    "static/css/2.0ce74623.chunk.css",
+    "static/js/2.d8495e1b.chunk.js",
+    "static/css/main.da74ee7f.chunk.css",
+    "static/js/main.2b32ec8c.chunk.js"
+  ]
+}
